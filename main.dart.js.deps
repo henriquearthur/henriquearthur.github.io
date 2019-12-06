@@ -22,6 +22,7 @@ file:///home/henrique/Flutter/henriquearthur/lib/app/modules/projects/projects_p
 file:///home/henrique/Flutter/henriquearthur/lib/app/modules/projects/repositories/projects_repository.dart
 file:///home/henrique/Flutter/henriquearthur/lib/app/modules/view_project/view_project_module.dart
 file:///home/henrique/Flutter/henriquearthur/lib/app/modules/view_project/view_project_page.dart
+file:///home/henrique/Flutter/henriquearthur/lib/app/shared/components/hand_cursor.dart
 file:///home/henrique/Flutter/henriquearthur/lib/main.dart
 file:///opt/flutter/.pub-cache/hosted/pub.dartlang.org/auto_size_text-2.1.0/lib/auto_size_text.dart
 file:///opt/flutter/.pub-cache/hosted/pub.dartlang.org/auto_size_text-2.1.0/lib/src/auto_size_group.dart
@@ -202,6 +203,8 @@ file:///opt/flutter/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.1.0/lib/src/
 file:///opt/flutter/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.1.0/lib/term_glyph.dart
 file:///opt/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.6/lib/typed_buffers.dart
 file:///opt/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.6/lib/typed_data.dart
+file:///opt/flutter/.pub-cache/hosted/pub.dartlang.org/universal_html-1.1.6/lib/html.dart
+file:///opt/flutter/.pub-cache/hosted/pub.dartlang.org/universal_html-1.1.6/lib/src/_sdk/html.dart
 file:///opt/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/hash.dart
 file:///opt/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/aabb2.dart
 file:///opt/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/aabb3.dart
